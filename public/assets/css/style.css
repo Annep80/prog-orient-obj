@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position:top center;
+}
+header{
+    background-repeat: no-repeat;
+    background-position:top center;
+}
+.arrowImg{
+    margin-bottom: 50px;
+}
+h1{
+    color: #F53C2E;
+    margin: 100px;
+}
+.result{
+    border:0.1rem solid red;
+    color: #F53C2E;
+    
+}
+
+.heroWinImg{
+    color: #F53C2E;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.orcWinImg{
+    color: #F53C2E;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    color: #F53C2E;
+}
+.fightLink{
+    text-decoration: none;
+    color: #F53C2E;
+    margin-top: 12px;
+}
+.borderLink{
+    border:0.1rem solid #F53C2E;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    background: none;
+    
+    
+}
